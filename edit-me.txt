@@ -1,2 +1,2 @@
 learn
-learnsubmit
+learn submit
